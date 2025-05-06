@@ -1,0 +1,229 @@
+# depslib dependency file v1.0
+1713417550 source:c:\users\jaswant\desktop\clg\sem 2\oops\package\project tracking system\head.cpp
+	"Head.h"
+	"Project.h"
+	"person.h"
+	"Tracker.h"
+	"Task.h"
+	<iostream>
+	<sstream>
+	<fstream>
+
+1713418293 c:\users\jaswant\desktop\clg\sem 2\oops\package\project tracking system\head.h
+	"User.h"
+	<iostream>
+	<string>
+
+1713418293 c:\users\jaswant\desktop\clg\sem 2\oops\package\project tracking system\user.h
+	<iostream>
+	<fstream>
+	<string>
+
+1713371217 c:\users\jaswant\desktop\clg\sem 2\oops\package\project tracking system\project.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"Person.h"
+
+1713374301 c:\users\jaswant\desktop\clg\sem 2\oops\package\project tracking system\person.h
+	<iostream>
+	<string>
+	<fstream>
+
+1713418434 c:\users\jaswant\desktop\clg\sem 2\oops\package\project tracking system\tracker.h
+	"project.h"
+	"Task.h"
+	"issue.h"
+
+1713371317 c:\users\jaswant\desktop\clg\sem 2\oops\package\project tracking system\task.h
+	<string>
+	"Project.h"
+
+1713370986 c:\users\jaswant\desktop\clg\sem 2\oops\package\project tracking system\issue.h
+	<iostream>
+	<string>
+
+1713417656 source:c:\users\jaswant\desktop\clg\sem 2\oops\package\project tracking system\issue.cpp
+	"Issue.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<sstream>
+
+1713417959 source:c:\users\jaswant\desktop\clg\sem 2\oops\package\project tracking system\member.cpp
+	"Member.h"
+	"Issue.h"
+	"Tracker.h"
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<iomanip>
+
+1713371128 c:\users\jaswant\desktop\clg\sem 2\oops\package\project tracking system\member.h
+	"User.h"
+	<iostream>
+	<string>
+	"Issue.h"
+
+1713422410 source:c:\users\jaswant\desktop\clg\sem 2\oops\package\project tracking system\person.cpp
+	"Person.h"
+	<iomanip>
+	<sstream>
+
+1713421813 source:c:\users\jaswant\desktop\clg\sem 2\oops\package\project tracking system\main.cpp
+	"Head.h"
+	"Member.h"
+	"person.h"
+	"project.h"
+	"Task.h"
+	"Tracker.h"
+	"User.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1713418291 source:c:\users\jaswant\desktop\clg\sem 2\oops\package\project tracking system\user.cpp
+	"User.h"
+
+1713422414 source:c:\users\jaswant\desktop\clg\sem 2\oops\package\project tracking system\project.cpp
+	"Project.h"
+	"Person.h"
+	<iomanip>
+	<fstream>
+	<sstream>
+
+1713418075 source:c:\users\jaswant\desktop\clg\sem 2\oops\package\project tracking system\task.cpp
+	"Task.h"
+	"Person.h"
+	"Project.h"
+	<string>
+	<iomanip>
+	<iostream>
+
+1713418450 source:c:\users\jaswant\desktop\clg\sem 2\oops\package\project tracking system\tracker.cpp
+	"Tracker.h"
+	"Issue.h"
+	<string>
+	<chrono>
+	<ctime>
+	<iostream>
+	<algorithm>
+	<iomanip>
+
+1713417550 source:e:\clg\sem 2\oops\package\project tracking system\head.cpp
+	"Head.h"
+	"Project.h"
+	"person.h"
+	"Tracker.h"
+	"Task.h"
+	<iostream>
+	<sstream>
+	<fstream>
+
+1713418293 e:\clg\sem 2\oops\package\project tracking system\head.h
+	"User.h"
+	<iostream>
+	<string>
+
+1713418293 e:\clg\sem 2\oops\package\project tracking system\user.h
+	<iostream>
+	<fstream>
+	<string>
+
+1713371217 e:\clg\sem 2\oops\package\project tracking system\project.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"Person.h"
+
+1713374301 e:\clg\sem 2\oops\package\project tracking system\person.h
+	<iostream>
+	<string>
+	<fstream>
+
+1713418434 e:\clg\sem 2\oops\package\project tracking system\tracker.h
+	"project.h"
+	"Task.h"
+	"issue.h"
+
+1713371317 e:\clg\sem 2\oops\package\project tracking system\task.h
+	<string>
+	"Project.h"
+
+1713370986 e:\clg\sem 2\oops\package\project tracking system\issue.h
+	<iostream>
+	<string>
+
+1713417656 source:e:\clg\sem 2\oops\package\project tracking system\issue.cpp
+	"Issue.h"
+	<string>
+	<fstream>
+	<iomanip>
+	<sstream>
+
+1713421813 source:e:\clg\sem 2\oops\package\project tracking system\main.cpp
+	"Head.h"
+	"Member.h"
+	"person.h"
+	"project.h"
+	"Task.h"
+	"Tracker.h"
+	"User.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1713371128 e:\clg\sem 2\oops\package\project tracking system\member.h
+	"User.h"
+	<iostream>
+	<string>
+	"Issue.h"
+
+1713417959 source:e:\clg\sem 2\oops\package\project tracking system\member.cpp
+	"Member.h"
+	"Issue.h"
+	"Tracker.h"
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<iomanip>
+
+1713422410 source:e:\clg\sem 2\oops\package\project tracking system\person.cpp
+	"Person.h"
+	<iomanip>
+	<sstream>
+
+1713422414 source:e:\clg\sem 2\oops\package\project tracking system\project.cpp
+	"Project.h"
+	"Person.h"
+	<iomanip>
+	<fstream>
+	<sstream>
+
+1713418075 source:e:\clg\sem 2\oops\package\project tracking system\task.cpp
+	"Task.h"
+	"Person.h"
+	"Project.h"
+	<string>
+	<iomanip>
+	<iostream>
+
+1713418450 source:e:\clg\sem 2\oops\package\project tracking system\tracker.cpp
+	"Tracker.h"
+	"Issue.h"
+	<string>
+	<chrono>
+	<ctime>
+	<iostream>
+	<algorithm>
+	<iomanip>
+
+1713418291 source:e:\clg\sem 2\oops\package\project tracking system\user.cpp
+	"User.h"
+

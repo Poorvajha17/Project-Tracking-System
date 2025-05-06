@@ -1,0 +1,12 @@
+# Ignore Code::Blocks layout and backup files
+*.cbp.save
+*.layout
+*.layout.save
+
+# Ignore build artifacts
+*.exe
+*.o
+*.obj
+
+# Ignore VS Code settings
+.vscode/
